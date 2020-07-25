@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">B Safe</string>
+
+    <string-array name="messages">
+        <item>Help Me</item>
+        <item>Im in Danger.</item>
+        <item>Someone is chasing me. Help</item>
+        <item>Im Lost.</item>
+    </string-array>
+</resources>
